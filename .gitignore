@@ -1,0 +1,7 @@
+.python/
+build/
+dist/
+__pycache__/
+.pytest_cache/
+research/
+*.spec
